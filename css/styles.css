@@ -1,6 +1,10 @@
+* { margin: 0; padding: 0; border: 0; font-size: 100%; }
+
+#my-id {background-image: url(images/background_sky.jpg);} 
+
 body{
 	background-color: grey;
-	font-family: Arial
+	font-family: 'Open Sans Condensed', sans-serif;
 }
 
 h1, h2, h3, h4 p{
