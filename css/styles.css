@@ -14,12 +14,12 @@ h1, h2, h3, h4 p{
 }
 
 h1{
-	background-color: orange
-	;padding: 25px
-	;border: 5px;
+	background-color: orange;
+	padding: 25px;
+	border: 5px;
 	border-style: double;
-	border-width: 5px
-	;border color: black;
+	border-width: 5px;
+	border color: black;
 }
 
 .bold{
@@ -36,6 +36,6 @@ h1{
 }
 
 .my-container{
-	border: thick; solid #007DFF;
+	border: thick; 
 	background-color: #A4C9D0;
 }
