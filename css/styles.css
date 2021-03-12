@@ -15,11 +15,11 @@ h1, h2, h3, h4 p{
 
 h1{
 	background-color: orange
-	padding: 25px
-	border: 5px;
+	;padding: 25px
+	;border: 5px;
 	border-style: double;
 	border-width: 5px
-	border color: black;
+	;border color: black;
 }
 
 .bold{
